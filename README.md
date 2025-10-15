@@ -14,7 +14,7 @@ I recently graduated with a **BSc in Artificial Intelligence & Computer Science*
 • **DPH Classifieds** – UAE car marketplace with intelligent ad filtering, funnel tracking, and CRM analytics.  
 • **Zoho–Twilio–OpenAI Bot** – Automated CRM WhatsApp system reducing manual input by 25%.  
 • **MyFit** – Social platform connecting athletes, teams, and coaches through community discovery.
-<br>
+<br><br>
 **Industry Experience:**  
 **Halliday Forfaiting Services** – Built automation systems integrating Zoho CRM, Twilio, and LLMs.  
 **Loop Media** – Delivered analytics dashboards driving +30% growth and +50% view rate.  
