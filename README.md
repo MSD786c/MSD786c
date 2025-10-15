@@ -2,34 +2,31 @@
 Hi, I’m **Mohammed Suhayl Dastager** — a **Data Scientist & AI Engineer** passionate about building intelligent systems that transform raw data into real-world impact.  
 I recently graduated with a **BSc in Artificial Intelligence & Computer Science** from the **University of Birmingham Dubai**, where I specialized in applied machine learning, automation, and full-stack development.  
 <br><br>
-
-🧠 **What I Do:** I design and deploy scalable AI-driven solutions — from analytics dashboards and automation pipelines to LLM-integrated systems that boost efficiency, decision-making, and insight generation.  
+**What I Do:** I design and deploy scalable AI-driven solutions — from analytics dashboards and automation pipelines to LLM-integrated systems that boost efficiency, decision-making, and insight generation.  
 <br><br>
 
-🔧 **Tech Focus:** Python, SQL, Flask, FastAPI, React, Supabase, Docker, GitLab CI/CD, REST APIs, Power BI, Tableau, and automation tools like n8n, Zapier, and Twilio.  
+**Tech Focus:** Python, SQL, Flask, FastAPI, React, Supabase, Docker, GitLab CI/CD, REST APIs, Tableau, and automation tools like n8n, Zapier, and Twilio.  
 <br><br>
 
-🤖 **AI & ML Interests:** Retrieval-Augmented Generation (RAG), LLM Integration (OpenAI, Gemini, Groq), Predictive Modeling, NLP, Forecasting, and AI Automation Systems.  
+**AI & ML Interests:** Retrieval-Augmented Generation (RAG), LLM Integration (OpenAI, Gemini, Groq), Predictive Modeling, NLP, Forecasting, and AI Automation Systems.  
 <br><br>
 
-💼 **Recent Projects:**  
+**Recent Projects:**  
 • **Document-Flow Automator (HFS)** – React + Flask + GPT-4 platform automating onboarding, document validation, and PDF summarization (cut review time by 40%).  
 • **MoneyMentor** – AI finance advisor with forecasting, anomaly detection, and expense insights using XGBoost + Prophet.  
 • **DPH Classifieds** – UAE car marketplace with intelligent ad filtering, funnel tracking, and CRM analytics.  
 • **Zoho–Twilio–OpenAI Bot** – Automated CRM WhatsApp system reducing manual input by 25%.  
-• **MyFit** – Social platform connecting athletes, teams, and coaches through community discovery.  
+• **MyFit** – Social platform connecting athletes, teams, and coaches through community discovery.
+• **More Coming Soon!!**
 <br><br>
-
-📊 **Industry Experience:**  
+**Industry Experience:**  
 **Halliday Forfaiting Services** – Built automation systems integrating Zoho CRM, Twilio, and LLMs.  
 **Loop Media** – Delivered analytics dashboards driving +30% growth and +50% view rate.  
 **RelphaCare Technologies** – Automated campaign tracking and performance insights with Power BI.  
 **SAP MENA** – Supported digital transformation projects focused on data intelligence and visualization.  
 <br><br>
-
-🏋️ **Beyond Tech:** I’m also a **national-level powerlifter (93 kg & 105 kg categories)** — passionate about discipline, high performance, and balancing mental and physical growth.  
+**Beyond Tech:** I’m also a **national-level powerlifter (93 kg & 105 kg categories)** — passionate about discipline, high performance, and balancing mental and physical growth.  
 <br><br>
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dastagersuhayl@gmail.com) 
