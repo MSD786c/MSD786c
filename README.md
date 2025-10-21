@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m **Mohammed Suhayl Dastager** — a **Data Scientist & AI Engineer** passionate about building intelligent systems that transform raw data into real-world impact.  
 I recently graduated with a **BSc in Artificial Intelligence & Computer Science** from the **University of Birmingham Dubai**, where I specialized in applied machine learning, automation, and full-stack development.  
 <br>
